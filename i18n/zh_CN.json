@@ -1,0 +1,29 @@
+{
+    "button_save": "保存",
+    "button_cancel": "取消",
+    "setting_panel_title": "双击文档树（文档树增强）插件设置",
+    "btn_replaceImageURL": "替换为picgo图床图片",
+    "confirm_replace": "确认对文档 [${docInfo}] 进行替换?",
+    "confirm_replaceDetail": "在执行替换前，请确认文档已经备份；另请注意，替换期间不要做任何操作。",
+
+    "error_noPicgoAttr": "没有在文档中找到PicGo插件写入的信息，可能从未上传到图床",
+
+    "success_replace": "替换成功。 \n在文档中找到${assetsCount}个本地图片，替换了${replaceCount}个。",
+    "success_partial_replace": "部分替换成功。\n在文档中找到${assetsCount}个本地图片，替换了${replaceCount}个。",
+    "fail_replace": "替换失败。 \n在文档中找到${assetsCount}个本地图片，替换了${replaceCount}个。",
+
+    "confirm_replaceOnline": "确认替换网络图片？",
+    "confirm_replaceOnline_detail": "没有在文档中找到本地图片。点击确认将查找并替换网络图片。替换网络图片需要遍历文档下所有块，故再次提醒，替换期间请勿编辑文档。",
+
+
+    "setting_dblclickShowSubDoc_name": "启用",
+    "setting_dblclickShowSubDoc_desp": "启用双击展开子层级功能",
+    "setting_dblclickDelay_name": "双击判定时段",
+    "setting_dblclickDelay_desp": "单位：毫秒；注意，小于150毫秒几乎无法判定为双击",
+    "setting_disableChangeIcon_name": "禁用文档树切换图标",
+    "setting_disableChangeIcon_desp": "需要先启用双击功能",
+    
+    
+    "setting_experimental": "（⚠实验性功能，不稳定，可能随时被移除）",
+    "error_initFailed": "双击文档树（文档树增强）插件初始化失败，如果可以，请向开发者反馈此问题"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "syplugin-replaceLocalImage",
+  "author": "OpaqueGlass",
+  "url": "https://github.com/OpaqueGlass/syplugin-replaceLocalImage",
+  "version": "0.1.0",
+  "displayName": {
+    "default": "replaceLocalImage",
+    "zh_CN": "替换本地图片",
+    "en_US": "replaceLocalImage"
+  },
+  "description": {
+    "default": "After using the picgo plugin to upload images to the remote server, replace the local image path in the notebook with the remote URL.",
+    "zh_CN": "在使用picgo插件上传图片至远端之后，远端url替换笔记本地图片路径",
+    "en_US": "After using the picgo plugin to upload images to the remote server, replace the local image path in the notebook with the remote URL."
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md",
+    "en_US": "README.md"
+  },
+  "i18n": [
+    "zh_CN",
+    "en_US"
+  ],
+  "funding": {
+    "custom": [
+      "https://wj.qq.com/s2/12395364/b69f/"
+    ]
+  }
+}
