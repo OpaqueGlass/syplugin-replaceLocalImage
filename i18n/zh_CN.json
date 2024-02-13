@@ -1,7 +1,7 @@
 {
     "button_save": "保存",
     "button_cancel": "取消",
-    "setting_panel_title": "双击文档树（文档树增强）插件设置",
+    "setting_panel_title": "替换本地图片插件设置",
     "btn_replaceImageURL": "替换为picgo图床图片",
     "confirm_replace": "确认对文档 [${docInfo}] 进行替换?",
     "confirm_replaceDetail": "在执行替换前，请确认文档已经备份；另请注意，替换期间不要做任何操作。",

@@ -2,6 +2,18 @@
   "button_save": "Save",
   "button_cancel": "Cancel",
   "setting_panel_title": "Plugin Settings: ",
+  "btn_replaceImageURL": "Replace with PicGo image",
+  "confirm_replace": "Confirm replacing document [${docInfo}]?",
+  "confirm_replaceDetail": "Before performing the replacement, please make sure the document has been backed up. Also, please note that no operations should be performed during the replacement process.",
+
+  "error_noPicgoAttr": "No information written by the PicGo plugin was found in the document. It may not have been uploaded to the image bed.",
+
+  "success_replace": "Replacement successful. \nFound ${assetsCount} local images in the document and replaced ${replaceCount} of them.",
+  "success_partial_replace": "Partial replacement successful. \nFound ${assetsCount} local images in the document and replaced ${replaceCount} of them.",
+  "fail_replace": "Replacement failed. \nFound ${assetsCount} local images in the document and replaced ${replaceCount} of them.",
+
+  "confirm_replaceOnline": "Confirm replacing online images?",
+  "confirm_replaceOnline_detail": "No local images were found in the document. Clicking confirm will search for and replace online images. Replacing online images requires traversing all blocks in the document, so once again, please do not edit the document during the replacement process.",
   
   
   "setting_dblclickShowSubDoc_name": "启用",
